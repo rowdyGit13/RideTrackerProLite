@@ -85,4 +85,4 @@ http://localhost:8501
 
 ## License
 
-None
+MIT License
