@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-#import fpdf as FPDF
 from datetime import datetime, timedelta
 from database import Database
 from utils import calculate_statistics, format_currency, format_number
